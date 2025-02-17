@@ -20,10 +20,10 @@ A simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
 ## Installation
 
 1. Clone the repository:
-
-   ```bash
-   https://github.com/AnkitKumar666/TicTocToeGame
+```bash
+https://github.com/AnkitKumar666/TicTocToeGame
+```
 2. Open in Browser
-   
-   ```bash
-   https://ankitkumar666.github.io/TicTocToeGame/
+```bash
+https://ankitkumar666.github.io/TicTocToeGame/
+```
