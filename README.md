@@ -9,7 +9,7 @@ A simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
 - Displays winner with an animated effect
 - Reset button to restart the game
 
-## Live Demo
+## Live Demo 
 
 [Play Tic Tac Toe](https://ankitkumar666.github.io/TicTocToeGame/)
 
